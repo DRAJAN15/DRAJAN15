@@ -1,16 +1,12 @@
-## Hi there 👋
+# Hi 👋, I'm Rajan Dubey
+** A passionate Web Developer from India**
+### 💻 Tech Stack
+- **Languages:** JavaScript, Java, C++
+- **Frameworks:** React, Node.js, Bootstrap
+- **Databases:** MongoDB, PostgreSQL, MySQL
+- **Tools:** Git, Docker, Kubernetes, AWS, VS Code
 
-<!--
-**DRAJAN15/DRAJAN15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💬 Let's Connect!
+- **Portfolio:** 
+- **LinkedIn:** https://www.linkedin.com/in/rajan-dubey-393a47259 [https://share.google/images/4ygWfWKdCZC8epq2g]
+- **Email:** dubeyjirajan85@gmail.com
