@@ -1,5 +1,5 @@
 # Hi 👋, I'm Rajan Dubey
-** A passionate Web Developer from India**
+**A passionate Web Developer from India**
 ### 💻 Tech Stack
 - **Languages:** JavaScript, Java, C++
 - **Frameworks:** React, Node.js, Bootstrap
