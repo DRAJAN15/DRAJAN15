@@ -8,5 +8,5 @@
 
 ### 💬 Let's Connect!
 - **Portfolio:** 
-- **LinkedIn:** https://www.linkedin.com/in/rajan-dubey-393a47259 [https://share.google/images/4ygWfWKdCZC8epq2g]
+[![Linkdin](https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/rajan-dubey-393a47259)
 - **Email:** dubeyjirajan85@gmail.com
